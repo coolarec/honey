@@ -1,7 +1,7 @@
 {
-	"name": "honey",
-	"short_name": "honey",
-	"description": "Nice and sweet place for all your self-hosted services",
+	"name": "SDUTer.link",
+	"short_name": "SDUTer",
+	"description": "欢迎来到山东理工大学赛博校友站",
 	"start_url": "/",
 	"background_color": "#000",
 	"display": "standalone",

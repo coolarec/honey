@@ -6,58 +6,22 @@
 		"wallpaper": "img/background.jpg",
 		"wallpaper_dark": "img/background-dark.jpg",
 		"dark_mode": false,
-		"open_new_tab": false,
+		"open_new_tab": true,
 		"blur": true,
 		"animations": true
 	},
 	"services": [
 		{
 			"name": "bLue",
-			"desc": "网页链接",
+			"desc": "Welcome to bLue's site",
 			"href": "https://dreamer.blue/",
 			"icon": "img/preview/bLue.jpg"
 		},
 		{
-			"name": "Files",
-			"desc": "Fancy file manager for the web.",
-			"href": "files",
-			"icon": "img/preview/files.png"
-		},
-		{
-			"name": "Gallery",
-			"desc": "Photo & video gallery syncable with multiple Android devices.",
-			"href": "gallery",
-			"icon": "img/preview/gallery.png"
-		},
-		{
-			"name": "Git",
-			"desc": "Self-hosted, painless, secure place for your repositories.",
-			"href": "git",
-			"icon": "img/preview/git.png"
-		},
-		{
-			"name": "E-Mail",
-			"desc": "Feature-rich, decentralized and secure E-Mail server.",
-			"href": "mail",
-			"icon": "img/preview/mail.png"
-		},
-		{
-			"name": "Music",
-			"desc": "Beautiful, moody music streaming app.",
-			"href": "music",
-			"icon": "img/preview/music.png"
-		},
-		{
-			"name": "Notes",
-			"desc": "Sweet & lightweight app for taking notes.",
-			"href": "notes",
-			"icon": "img/preview/notes.png"
-		},
-		{
-			"name": "Google",
-			"desc": "DON'T CLICK: goes to google.com",
-			"href": "https://google.com",
-			"icon": "img/preview/google.png"
+			"name": "凌乱之风的博客",
+			"desc": "数论大神",
+			"href": "https://messywind.github.io/",
+			"icon": "img/preview/messywind.png"
 		}
 	]
 }
