@@ -1,6 +1,6 @@
 {
 	"ui": {
-		"name": "honey",
+		"name": "SDUTer.link",
 		"desc": "欢迎来到山东理工大学赛博校友站",
 		"icon": "img/icon.png",
 		"wallpaper": "img/background.jpg",
@@ -12,10 +12,10 @@
 	},
 	"services": [
 		{
-			"name": "CalDav",
+			"name": "bLue",
 			"desc": "网页链接",
-			"href": "https://google.com",
-			"icon": "img/preview/caldav.png"
+			"href": "https://dreamer.blue/",
+			"icon": "img/preview/bLue.jpg"
 		},
 		{
 			"name": "Files",
