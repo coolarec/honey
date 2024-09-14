@@ -13,7 +13,7 @@
 	"services": [
 		{
 			"name": "CalDav",
-			"desc": "Simple CalDav server for calendar sync between various devices.",
+			"desc": "网页链接",
 			"href": "caldav",
 			"icon": "img/preview/caldav.png"
 		},
